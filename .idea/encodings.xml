@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/application01" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/application02" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/configclient" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/configserver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eurekaconsumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eurekaserver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jpademo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/webdemo" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
